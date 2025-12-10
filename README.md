@@ -21,14 +21,14 @@ sitten avataan http://localhost....konsolista
 
 Projektin rakenne
 src/
- ├─ components/
- ├─ assets/
- ├─ App.jsx
- ├─ main.jsx
+ components/
+  assets/
+ App.jsx
+ main.jsx
 public/
-index.html
-package.json
-vite.config.js
+ index.html
+ package.json
+ vite.config.js
 
 Käytetyt API-päätepisteet
 
